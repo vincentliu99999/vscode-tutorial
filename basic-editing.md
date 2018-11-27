@@ -1,3 +1,21 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [基礎編輯](#%E5%9F%BA%E7%A4%8E%E7%B7%A8%E8%BC%AF)
+  - [游標選擇](#%E6%B8%B8%E6%A8%99%E9%81%B8%E6%93%87)
+  - [Column (box) selection](#column-box-selection)
+  - [Hot Exit](#hot-exit)
+  - [Save / Auto Save](#save--auto-save)
+  - [搜尋及取代](#%E6%90%9C%E5%B0%8B%E5%8F%8A%E5%8F%96%E4%BB%A3)
+  - [IntelliSense](#intellisense)
+  - [Formatting](#formatting)
+  - [Folding](#folding)
+  - [Indentation](#indentation)
+  - [File encoding support](#file-encoding-support)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 基礎編輯
 
 善用快捷鍵
