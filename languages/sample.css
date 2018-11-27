@@ -1,0 +1,15 @@
+div.div-success {
+    background-color: #91ee6c;
+}
+
+div.div-danger {
+    background-color: #f17272;
+}
+
+div.div-info {
+    background-color: #65c0ee;
+}
+
+div.div-warning {
+    background-color: #f5de6c;
+}
