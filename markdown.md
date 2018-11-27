@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Markdown - 寫文件利器](#markdown---%E5%AF%AB%E6%96%87%E4%BB%B6%E5%88%A9%E5%99%A8)
+  - [Text](#text)
+  - [Lists](#lists)
+  - [Images](#images)
+  - [Headers & Quotes](#headers--quotes)
+  - [Extension](#extension)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Markdown - 寫文件利器
 
 [Mastering Markdown &middot; GitHub Guides](https://guides.github.com/features/mastering-markdown/)
@@ -7,6 +20,8 @@ GitHub 常用文件格式
 - Gist
 - Comment, Pull request
 - `*.md`, `*.markdown`
+
+目錄可使用 [doctoc](https://github.com/thlorenz/doctoc) 產生
 
 ## Text
 
