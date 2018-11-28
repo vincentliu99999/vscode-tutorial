@@ -3,11 +3,11 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Markdown - 寫文件利器](#markdown---%E5%AF%AB%E6%96%87%E4%BB%B6%E5%88%A9%E5%99%A8)
-  - [Text](#text)
-  - [Lists](#lists)
-  - [Images](#images)
-  - [Headers & Quotes](#headers--quotes)
-  - [Extension](#extension)
+    - [Text](#text)
+    - [Lists](#lists)
+    - [Images](#images)
+    - [Headers & Quotes](#headers--quotes)
+    - [Extension](#extension)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -66,3 +66,4 @@ Alternatively,
 - [Markdown&#32;Table&#32;Prettifier&#32;-&#32;Visual&#32;Studio&#32;Marketplace](https://marketplace.visualstudio.com/items?itemName=darkriszty.markdown-table-prettify)
 - [markdownlint&#32;-&#32;Visual&#32;Studio&#32;Marketplace](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - [Paste&#32;URL&#32;-&#32;Visual&#32;Studio&#32;Marketplace](https://marketplace.visualstudio.com/items?itemName=kukushi.pasteurl) 快速貼上連結
+- [Markdown&#32;All&#32;in&#32;One&#32;-&#32;Visual&#32;Studio&#32;Marketplace](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
