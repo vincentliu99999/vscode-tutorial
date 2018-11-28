@@ -50,9 +50,14 @@ Alternatively,
   - Like this
   - And this
 
+<details>
+  <summary>Images</summary>
+  
 ## Images
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+</details>
 
 ## Headers & Quotes
 
