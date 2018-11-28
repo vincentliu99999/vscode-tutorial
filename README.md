@@ -3,22 +3,22 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [VSCode 指南](#vscode-%E6%8C%87%E5%8D%97)
-  - [安裝](#%E5%AE%89%E8%A3%9D)
-  - [UI](#ui)
-    - [編輯器](#%E7%B7%A8%E8%BC%AF%E5%99%A8)
-      - [並排編輯(Side by side editing)](#%E4%B8%A6%E6%8E%92%E7%B7%A8%E8%BC%AFside-by-side-editing)
-      - [Minimap - 程式碼大綱](#minimap---%E7%A8%8B%E5%BC%8F%E7%A2%BC%E5%A4%A7%E7%B6%B1)
-      - [縮排指南](#%E7%B8%AE%E6%8E%92%E6%8C%87%E5%8D%97)
-    - [瀏覽器](#%E7%80%8F%E8%A6%BD%E5%99%A8)
-      - [目錄](#%E7%9B%AE%E9%8C%84)
-    - [大綱](#%E5%A4%A7%E7%B6%B1)
-    - [開啟中的編輯器](#%E9%96%8B%E5%95%9F%E4%B8%AD%E7%9A%84%E7%B7%A8%E8%BC%AF%E5%99%A8)
-    - [Views](#views)
-      - [Activity Bar](#activity-bar)
-    - [指令選擇器(Command Palette)](#%E6%8C%87%E4%BB%A4%E9%81%B8%E6%93%87%E5%99%A8command-palette)
-    - [設定](#%E8%A8%AD%E5%AE%9A)
-      - [Zen Mode](#zen-mode)
-    - [Grid editor layout](#grid-editor-layout)
+    - [安裝](#%E5%AE%89%E8%A3%9D)
+    - [UI](#ui)
+        - [編輯器](#%E7%B7%A8%E8%BC%AF%E5%99%A8)
+            - [並排編輯(Side by side editing)](#%E4%B8%A6%E6%8E%92%E7%B7%A8%E8%BC%AFside-by-side-editing)
+            - [Minimap - 程式碼大綱](#minimap---%E7%A8%8B%E5%BC%8F%E7%A2%BC%E5%A4%A7%E7%B6%B1)
+            - [縮排指南](#%E7%B8%AE%E6%8E%92%E6%8C%87%E5%8D%97)
+        - [瀏覽器](#%E7%80%8F%E8%A6%BD%E5%99%A8)
+            - [目錄](#%E7%9B%AE%E9%8C%84)
+        - [大綱](#%E5%A4%A7%E7%B6%B1)
+        - [開啟中的編輯器](#%E9%96%8B%E5%95%9F%E4%B8%AD%E7%9A%84%E7%B7%A8%E8%BC%AF%E5%99%A8)
+        - [Views](#views)
+            - [Activity Bar](#activity-bar)
+        - [指令選擇器(Command Palette)](#%E6%8C%87%E4%BB%A4%E9%81%B8%E6%93%87%E5%99%A8command-palette)
+        - [設定](#%E8%A8%AD%E5%AE%9A)
+            - [Zen Mode](#zen-mode)
+        - [Grid editor layout](#grid-editor-layout)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -36,6 +36,8 @@
 
 ## UI
 
+![Interview Overview](/images/interface-overview.png)
+
 - 編輯器
 - 側邊攔
 - 狀態列
@@ -49,7 +51,8 @@
 - 開啟檔案 `Ctrl+P` + (`Ctrl+Click` or `Ctrl+Enter`)
 - 分割視窗 `Ctrl+\` 或檔案拉至上、下、左、右方
 - 切換視窗 `Ctrl+1, 2, 3, 4`
-- 要多少有多少 `Ctrl+Click`
+
+![Side by side editing](/images/side-bys-ide-editing.gif)
 
 #### Minimap - 程式碼大綱
 
@@ -80,8 +83,8 @@
 編輯器行為，有活動才會保留
 
 1. 變更檔案
-1. 雙擊
-1. 開啟外部檔案
+2. 雙擊
+3. 開啟外部檔案
 
 如果覺得不喜歡可以去調整 `workbench.editor.enablePreview`
 
