@@ -30,6 +30,8 @@
 
 - 下載處 [Download Visual Studio Code - Mac, Linux, Windows](https://code.visualstudio.com/Download)
 - 詳細安裝指南 [Setting up Visual Studio Code](https://code.visualstudio.com/docs/setup/setup-overview)
+  - 推薦選擇 `Open with Code`
+  - 使用 Mac 的朋友可以在 Finder 加上 [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode)
 - 每周嘗鮮版 [Download Visual Studio Code Insiders](https://code.visualstudio.com/insiders/)
 
 ## UI
@@ -113,8 +115,8 @@
 1. 全域
 1. 工作區
 
-Windows: `File > Preferences > Settings`
-Mac: `Code > Preferences > Settings`
+- Windows: `File > Preferences > Settings`
+- Mac: `Code > Preferences > Settings`
 
 #### Zen Mode
 
