@@ -34,6 +34,9 @@
   - 使用 Mac 的朋友可以在 Finder 加上 [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode)
 - 每周嘗鮮版 [Download Visual Studio Code Insiders](https://code.visualstudio.com/insiders/)
 
+<details>
+  <summary>UI</summary>
+    
 ## UI
 
 ![Interview Overview](/images/interface-overview.png)
@@ -128,3 +131,5 @@
 ### Grid editor layout
 
 自由搭配 `View > Editor Layout`
+
+</details>
