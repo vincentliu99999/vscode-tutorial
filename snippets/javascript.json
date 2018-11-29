@@ -1,0 +1,41 @@
+{
+
+    "Print to console": {
+        "prefix": "log",
+        "body": [
+            "console.log('$1');",
+            "$2"
+        ],
+        "description": "Log output to console"
+    },
+    "For_Loop": {
+        "prefix": "for",
+        "scope": "javascript,typescript",
+        "body": [
+          "for (const ${2:element} of ${1|one,two,three|}) {",
+          "\tconsole.log(${2:element})$0",
+          "}"
+        ],
+        "description": "For Loop"
+    },
+    "For_Loop2": {
+        "prefix": "for",
+        "body": [
+          "const two = ['two', '2', '二', '🐰']",
+          "for (const element of two) {",
+          "    console.log(element);",
+          "}"
+        ],
+        "description": "For_Loop"
+      },
+      "for_two": {
+        "prefix": "for_two",
+        "body": [
+          "const two = ['two', '2', '二', '🐰'];",
+          "for (const element of two) {",
+          "    console.log(element);",
+          "}"
+        ],
+        "description": "for_two"
+      }
+}
