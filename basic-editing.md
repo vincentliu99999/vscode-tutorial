@@ -50,7 +50,7 @@ VS Code 會自動記住未儲存的檔案
 
 支援 regular expression、排除清單
 
-取代 `Ctrl+Shift+F`
+取代 `Ctrl+Shift+H`
 
 ## IntelliSense
 
