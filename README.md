@@ -24,6 +24,8 @@
 
 # VSCode 指南
 
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/vincentliu99999/vscode-tutorial)
+
 ## 安裝
 
 支援 macOS、Linux、Windows，版控預設支援 Git
