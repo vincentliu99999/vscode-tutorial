@@ -3,6 +3,14 @@
 - [Project&#32;Manager&#32;-&#32;Visual&#32;Studio&#32;Marketplace](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 - [Bookmarks&#32;-&#32;Visual&#32;Studio&#32;Marketplace](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 
+## refactoring
+
+- [JavaScript&#32;Booster&#32;-&#32;Visual&#32;Studio&#32;Marketplace](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster)
+- [Bitly](https://bit.ly/3ytcHrS) bookmark
+- [Abracadabra,&#32;refactor&#32;this!&#32;-&#32;Visual&#32;Studio&#32;Marketplace](https://marketplace.visualstudio.com/items?itemName=nicoespeon.abracadabra&ssr=false#overview)
+- [glean&#32;-&#32;Visual&#32;Studio&#32;Marketplace](https://marketplace.visualstudio.com/items?itemName=wix.glean) React
+- [SonarLint&#32;-&#32;Visual&#32;Studio&#32;Marketplace](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
+
 ## Git
 
 - [eamodio/vscode-gitlens](https://github.com/eamodio/vscode-gitlens)
