@@ -6,7 +6,7 @@
 ## refactoring
 
 - [JavaScript&#32;Booster&#32;-&#32;Visual&#32;Studio&#32;Marketplace](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster)
-- [Bitly](https://bit.ly/3ytcHrS) bookmark
+- [Stepsize:&#32;Code&#32;context&#32;for&#32;tech&#32;debt,&#32;refactoring,&#32;TODO&#32;and&#32;more&#32;-&#32;Visual&#32;Studio&#32;Marketplace](https://marketplace.visualstudio.com/items?itemName=Stepsize.stepsize&utm_source=dev.to&utm_medium=referral&utm_campaign=refactoring) bookmark
 - [Abracadabra,&#32;refactor&#32;this!&#32;-&#32;Visual&#32;Studio&#32;Marketplace](https://marketplace.visualstudio.com/items?itemName=nicoespeon.abracadabra&ssr=false#overview)
 - [glean&#32;-&#32;Visual&#32;Studio&#32;Marketplace](https://marketplace.visualstudio.com/items?itemName=wix.glean) React
 - [SonarLint&#32;-&#32;Visual&#32;Studio&#32;Marketplace](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
