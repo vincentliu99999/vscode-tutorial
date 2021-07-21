@@ -8,7 +8,11 @@
 
 ## Linux terminal
 
+<<<<<<< HEAD
 ### Terminal
+=======
+### First Command
+>>>>>>> e597cad (add First Command, Terminals, Commands and Shells (Oh My!))
 
 next: 結構化
 
