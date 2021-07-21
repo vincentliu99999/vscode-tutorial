@@ -51,3 +51,41 @@ exit # ctrl + d
 - terminal: shell 之窗
 
 ### Understanding Command Structure
+
+- `commandName –options arguments(input)`
+- commandName 必須存在於 search path
+- input(operand) 非必要, case-sensitive
+- option 通常會有長格式 `--option value`, case-sensitive
+- option input 部分支援 `-option=value`
+
+```shell
+which <commandName>
+
+# commandName 會從 $PATH 找
+echo $PATH
+# /usr/local/bin:/usr/bin:/bin:/usr/sbin
+which cal
+which echo
+which which
+
+# input
+cal 2021
+cal 12 2021
+
+echo "hello"
+
+# options
+cal -y
+date
+date -u
+# ex: date -a -b -c = date -abc
+
+# long format
+# date --a --b --c
+
+# option input
+cal -A 1 12 2021
+cal -B 1 12 2021
+cal -A 1 -B 1 12 2021
+# cal -A=1 -B=1 12 2021
+```
