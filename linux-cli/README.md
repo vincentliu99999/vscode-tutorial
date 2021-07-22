@@ -89,3 +89,16 @@ cal -B 1 12 2021
 cal -A 1 -B 1 12 2021
 # cal -A=1 -B=1 12 2021
 ```
+
+### Linux Manual
+
+免記憶 1, 5, 8 最常用
+
+1. User Commands 免 root 權限, 日常使用
+2. System Calls application 呼叫 kernel, 很少使用
+3. C Library Functions 很少使用
+4. Devices and Special Files 裝置, 如: USB
+5. File Formats and Conventions 檔案格式, 設定, 客製化
+6. Games
+7. Miscellaneous
+8. System administration tools and Daemons 可能需要 root 權限
