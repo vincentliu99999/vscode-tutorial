@@ -102,3 +102,25 @@ cal -A 1 -B 1 12 2021
 6. Games
 7. Miscellaneous
 8. System administration tools and Daemons 可能需要 root 權限
+
+閱讀 Manual
+
+- 搜尋新指令
+  - name
+  - synopsis 如何使用 ex: `which [-as] program ...`
+  - description
+  - `[something]`, `a | b` 選則性
+  - `<something>` 必要性
+  - `...` 無限個
+- 學習如何使用
+
+```shell
+man -k which # search which
+man 1 which
+
+man which
+which date cal
+which -a date cal
+```
+
+[Useful Documentation](https://support.ca.com/cadocs/0/CA%20ARCserve%20%20Backup%2015-ENU/Bookshelf_Files/HTML/CMD_Ref/index.htm?toc.htm?command_line_syntax_characters.htm)
