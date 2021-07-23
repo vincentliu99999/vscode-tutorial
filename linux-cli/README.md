@@ -8,11 +8,7 @@
 
 ## Linux terminal
 
-<<<<<<< HEAD
 ### Terminal
-=======
-### First Command
->>>>>>> e597cad (add First Command, Terminals, Commands and Shells (Oh My!))
 
 next: 結構化
 
@@ -103,7 +99,7 @@ cal -A 1 -B 1 12 2021
 7. Miscellaneous
 8. System administration tools and Daemons 可能需要 root 權限
 
-閱讀 Manual
+### 閱讀 Manual
 
 - 搜尋新指令
   - name
@@ -138,4 +134,35 @@ ls -lh
 
 cd
 help cd
+```
+
+Command Input + Output
+
+1. input - `standard` input
+    - 並非所有的 command 都有, ex: echo
+2. input - command argument
+    - 不可利用 pipeline 串連 command
+3. output - `standard` output(1)
+    - 預設輸出至 terminal
+    - ex: `cat`
+4. output - `standard` error(2)
+
+- redirection: data stream 可輸出至不同 location
+- piping: `standard` output redirect 至 `standard` input
+
+```shell
+# standard output stream
+data
+
+# standard error stream
+date dsdjbdsjfbn
+
+# input
+cat
+cal 7 2021
+
+# command line argument
+# A: 1, B: 1
+# cal: 7, 2021
+cal -A 1 -B 1 7 2021
 ```
