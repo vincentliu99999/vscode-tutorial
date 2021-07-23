@@ -8,9 +8,7 @@
 
 ## Linux terminal
 
-### Terminal
-
-next: 結構化
+### Terminal 簡介
 
 ```shell
 echo
@@ -46,7 +44,7 @@ exit # ctrl + d
   - bash 最常見, Linux, Ubuntu
 - terminal: shell 之窗
 
-### Understanding Command Structure
+### Command 結構
 
 - `commandName –options arguments(input)`
 - commandName 必須存在於 search path
@@ -120,7 +118,7 @@ which date cal
 which -a date cal
 ```
 
-練習 Manual
+### 練習 Manual
 
 長格式 option: `--word1-word2`
 
@@ -136,7 +134,7 @@ cd
 help cd
 ```
 
-Command Input + Output
+### Command Input + Output
 
 1. input - `standard` input
     - 並非所有的 command 都有, ex: echo
