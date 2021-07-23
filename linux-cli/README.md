@@ -136,7 +136,7 @@ help cd
 
 ### Command Input + Output
 
-1. input - `standard` input
+1. input - `standard` input(0)
     - 並非所有的 command 都有, ex: echo
 2. input - command argument
     - 不可利用 pipeline 串連 command
@@ -163,4 +163,23 @@ cal 7 2021
 # A: 1, B: 1
 # cal: 7, 2021
 cal -A 1 -B 1 7 2021
+```
+
+### Redirection: standard output
+
+ex cat
+
+- `>` 會清空(truncate)後才放入
+- `>>` 不清空後才放入
+
+```shell
+# standard output 放到 output.txt
+cat 1> output.txt
+# Linux is amazing
+
+cat > output.txt
+# wow!
+
+cat >> output.txt
+# Linux is amazing
 ```
