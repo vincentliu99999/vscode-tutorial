@@ -170,7 +170,7 @@ cal -A 1 -B 1 7 2021
 ex cat
 
 - `>` 會清空(truncate)後才放入
-- `>>` 不清空後才放入
+- `>>` 不清空，append 放入
 
 ```shell
 # standard output 放到 output.txt
@@ -182,4 +182,39 @@ cat > output.txt
 
 cat >> output.txt
 # Linux is amazing
+```
+
+### Redirection: standard input + standard error
+
+- standard error 通常會使用 append 方式(`>>`)
+  - `cat 2> error.txt`
+  - `cat 2>> error.txt`
+- standard input from file
+  - `cat 0< input.txt`
+  - `cat < input.txt`
+- redirect to other terminal
+  - `tty` 取得 terminal 檔案位置, ex: `/dev/ttys019`
+- 參考資料
+  - [BashGuide/InputAndOutput - Greg's Wiki](http://mywiki.wooledge.org/BashGuide/InputAndOutput?#Redirection)
+  - [Redirections (Bash Reference Manual)](https://www.gnu.org/software/bash/manual/html_node/Redirections.html)
+
+```shell
+# standard error
+cat -k bla 2> error.txt
+cat -k bla 2>> error.txt
+
+cat 1>> output.txt 2>> error.txt
+cat >> output.txt 2>> error.txt
+# Linux is Awesome!
+
+# standard input
+cat > input.txt
+# Hello World!
+cat < input.txt
+
+cat < input.txt > hello.txt
+
+# redirect to terminal
+tty
+cat < input.txt > /dev/ttys019
 ```
